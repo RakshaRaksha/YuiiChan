@@ -79,8 +79,6 @@ Hi {}, my name is {}!
 I am an Anime themed group management bot.
 You can find my list of available commands with /help.
 
-See [Basic Configuration Checklist](https://t.me/yuiichansupport/3654) on how to secure your group.
-"""
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
